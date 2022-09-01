@@ -12,3 +12,4 @@ function foo(){
     res = document.getElementById("main3").value;
     console.log(res);
 }
+foo();
